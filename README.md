@@ -61,15 +61,16 @@ A simple Kanban dashboard built with React, TypeScript, and DND-Kit for drag-and
 
 ### Folder structure
 
-/src
-|-- components
-|   |-- Board.tsx
-|   |-- Card.tsx
-|   |-- List.tsx
-|-- App.tsx
-|-- index.tsx
-...
-
+```lua
+.
+└── src
+    ├── components
+    │   ├── Board.tsx
+    │   ├── Card.tsx
+    │   └── List.tsx
+    ├── App.tsx
+    └── index.tsx
+```
 
 - components: Contains React components for the Kanban board, lists, and cards.
 - App.tsx: Main component integrating the board and lists.
