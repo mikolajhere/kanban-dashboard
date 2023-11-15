@@ -1,6 +1,6 @@
-# React TypeScript DND-Kit Kanban Dashboard
+# Kanban Dashbord
 
-A simple Kanban dashboard built with React, TypeScript, and DND-Kit for drag-and-drop functionality.
+A simple Kanban dashboard built with React, TypeScript, and DND-Kit for drag-and-drop functionality. Trello inspiried.
 
 ## Table of Contents
 
